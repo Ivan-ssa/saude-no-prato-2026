@@ -1,0 +1,53 @@
+/************************************************/
+/****************** CONFIGURAÇÕES ***************/
+/************************************************/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    color: #555;
+    font-family: 'LATO', 'ARIAL', sans-serif;
+    font-weight: 300;
+    font-size: 20;
+    text-rendering: optimizeLegibility;
+}
+
+
+/************************************************/
+/***************   HERO HEADER    ***************/
+/************************************************/
+
+header{
+    background-image: 
+        linear-gradient(rgba(7,2,2,.7),rgba(0,0,0,.7)),
+        url(img/img-hero-header.jpg);
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    margin: 0;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 180%;
+    text-transform: uppercase;
+    font-weight: 300;
+    word-spacing: 4px;
+    letter-spacing: 1px;
+}
+
+
+.slogan{
+
+    
+}
+
+.logo{
+    height: 100px;
+}
+    
